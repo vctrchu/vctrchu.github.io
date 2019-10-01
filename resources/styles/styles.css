@@ -66,8 +66,8 @@ main {
 }
 
 footer#connect {
-  background-color: black;
-  color: #ffffff;
+  background-color: white;
+  color: black;
   position: fixed;
   padding: 0.5rem;
   bottom: 0;
